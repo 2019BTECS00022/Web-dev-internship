@@ -1,2 +1,2 @@
-# Web-dev-internship
-This is 10 days web development workshop for internship of Aadi foundation.
+# Full stack development 
+This is 10 days full stack development workshop for internship of Aadi foundation.
